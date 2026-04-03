@@ -1,23 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a167b89b.css",
-    "main.js": "/static/js/main.aabc924d.js",
+    "main.css": "/static/css/main.43ec4b26.css",
+    "main.js": "/static/js/main.c5fb647e.js",
     "static/media/portada.jpg": "/static/media/portada.7b29436b4fead615874a.jpg",
     "static/media/logo.png": "/static/media/logo.f889bd8dca168b82ebf4.png",
-    "static/media/reportes.jpg": "/static/media/reportes.79ac549a715f2802fa6c.jpg",
-    "static/media/compras.jpg": "/static/media/compras.7c99a11310f8d9b79618.jpg",
-    "static/media/cartera.jpg": "/static/media/cartera.13cc3e237da8f210a675.jpg",
-    "static/media/inventario.jpg": "/static/media/inventario.5d4011ea066311da0c5d.jpg",
-    "static/media/hotel.jpg": "/static/media/hotel.4642c49c57471b10a4bc.jpg",
-    "static/media/restobar.jpg": "/static/media/restobar.e485f4f5071b4f991efd.jpg",
-    "static/media/factura.jpg": "/static/media/factura.90d4e550fd14845ab33c.jpg",
-    "static/media/caja.jpg": "/static/media/caja.6c8578e313493f0357d4.jpg",
     "index.html": "/index.html",
-    "main.a167b89b.css.map": "/static/css/main.a167b89b.css.map",
-    "main.aabc924d.js.map": "/static/js/main.aabc924d.js.map"
+    "main.43ec4b26.css.map": "/static/css/main.43ec4b26.css.map",
+    "main.c5fb647e.js.map": "/static/js/main.c5fb647e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a167b89b.css",
-    "static/js/main.aabc924d.js"
+    "static/css/main.43ec4b26.css",
+    "static/js/main.c5fb647e.js"
   ]
 }
